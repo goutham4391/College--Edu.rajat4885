@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cu.edu.eg	TRUE	/	FALSE	1999999999	PHPSESSID	3kdcpc16l0qa735t477utilho4
+
